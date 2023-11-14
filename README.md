@@ -6,3 +6,4 @@
 * 3V3@600mA on VIN
 * 3 pins to GND
 
+![Normal mode](/media/esp32-wroom-32-flash-mode.jpg "Normal mode")
